@@ -415,6 +415,125 @@ const questions = [
     answer:
       "Since MRs hall specifically asked you to discuss the PDP you can as long as you fill out a new scope of appointment first indicating that she want to talk about it with you.",
   },
+  {
+    question:
+      "Which of the following individuals has enrolled in a plan based on a fixed enrollment period?",
+    answer:
+      "Ben enrolls in a MA plan during the medicare advantage open enrollment period (MA OEP).",
+  },
+  {
+    question:
+      "Ms. Lee is enrolled in an MA-PD plan but will be moving out of the plan's service area next month. She is worried that she will not be able to enroll in another plan available in her new residence until the Annual Election Period. What should you tell her?",
+    answer:
+      "She is elegible for a SEP that begins one month befor her perm move. If the plan is notified in advance or the month she provides notice of the move and lasts for 2 months.",
+  },
+  {
+    question:
+      "Mrs. Young is currently enrolled in Original Medicare (Parts A and B), but she has been working with Agent Neil Adams in the selection of a Medicare Advantage (MA) plan. It is mid-September, and Mrs. Young is going on vacation. Agent Adams is considering suggesting that he and Mrs. Young complete the application together before she leaves. He will then submit the paper application before the start of the annual enrollment period (AEP). What would you say If you were advising Agent Adams?",
+    answer:
+      "This is a bad idea. Agents generally are prohibited from soliciting or accepting an enrollment form before the start of AEP.",
+  },
+  {
+    question:
+      "Mr. Rodriguez is currently enrolled in a MA plan, but his plan doesn't sufficiently cover his prescription drug needs. He is interested in changing plans during the upcoming MA Open Enrollment Period. What are his options during the MA OEP?",
+    answer:
+      "He is permitted to change to Original Medicare with a PDP during the MA OEP. However, beneficiaries may only change plans once during this period.",
+  },
+  {
+    question:
+      'Ms. Claggett is sixty-six (66) years old. She has been covered under Original Medicare for the last six years due to her disability and has never been enrolled in a Medicare Advantage or a Part D plan before. She wants to enroll in a Part D plan. She knows that there is such a thing as the "Part D Initial Enrollment Period" (IEP) and has concluded that, since she has never enrolled in such a plan before, she should be eligible to enroll under this period. What should you tell her about how the Part D Initial Enrollment Period applies to her situation?',
+    answer:
+      "Ms. Claggett has had two IEP's and missed them both. Once when first eligimble and the second when she turned 65.",
+  },
+  {
+    question:
+      "Mr. Block is currently enrolled in a Medicare Advantage plan that includes drug coverage. He found a stand-alone Medicare prescription drug plan in his area that offers better coverage than that available through his MA-PD plan and in addition, has a low premium. It won't cost him much more and, because he has the means to do so, he wishes to enroll in the stand-alone prescription drug plan in addition to his MA-PD plan. What should you tell him?",
+    answer:
+      "If Mr. Block enrolls in the stand alone MD plan he will be disenrolled from his current plan",
+  },
+  {
+    question:
+      "Mrs. Pierce would like to enroll in a Medicare Cost plan that offers Part D prescription drug coverage. She comes to you for advice about when she can enroll in a plan you have previously discussed. What should you tell her?",
+    answer:
+      "Cost plans offering part D coverage  may only make the benefit available during enroll periods available under the part D program",
+  },
+  {
+    question:
+      "Mr. Garcia was told he qualifies for a special election period (SEP), but he lost the paper that explains what he could do during the SEP. What can you tell him?",
+    answer:
+      "If the SEP is for MA coverage he will generally have one opportunty to change his MA coverage",
+  },
+  {
+    question:
+      "Mr. Liu turns 65 on June 19. He has never previously qualified for Medicare so his first Medicare eligibility date will be June 1. Mr. Liu's ICEP and Part D IEP begin on March 1 and end on September 30. He wants prescription drug coverage with his Part A and Part B benefits. What advice can you provide him?",
+    answer:
+      "As long as he enrolls in Part B and is entitled to part A . He may enroll in a MA-PD",
+  },
+  {
+    question:
+      "Mr. Yoo's employer has recently dropped comprehensive creditable prescription drug coverage that was offered to company retirees. The company told Mr. Yoo that, because he was affected by this change, he would qualify for a special election period. Mr. Yoo contacted you to find out more about what this means. What can you tell him?",
+    answer:
+      "It means that he qualifies for a one-time opportunity to enroll in an MA-PD or part d drug plan",
+  },
+  {
+    question:
+      "Mr. Chen is enrolled in his employer's group health plan and will be retiring soon. He would like to know his options since he has decided to drop his retiree coverage and is eligible for Medicare. What should you tell him?",
+    answer:
+      "Mr. Chen can disenroll from his employer-sponsored coverage to elect a  MA or Part D plan within 2 months of his disenrollment",
+  },
+  {
+    question:
+      "Mrs. Kendrick is in good health, has worked for many years, and is six months away from turning 65. She wants to know what she will have to do to enroll in a Medicare Advantage (MA) plan as soon as possible. What could you tell her?",
+    answer:
+      "She may enroll in an MA plan beginning 3 months befor her first entitlement to both plan a and b",
+  },
+  {
+    question:
+      "Mr. Ford enrolled in an MA-only plan in mid-November during the Annual Election Period (AEP). On December 1, he calls you up and says that he has changed his mind and would like to enroll in a MA-PD plan. What enrollment rules would apply in this case?",
+    answer: "He can make as many changes as he likes but the last one stands",
+  },
+  {
+    question:
+      "Mrs. Ridgeway enrolled in Original Medicare and Medigap coverage following her retirement several years ago. Four months ago, Mrs. Ridgeway dropped her Medigap policy to enroll in a Medicare Advantage (MA) plan for the first time. Unfortunately, Mrs. Ridgeway has found that many of her providers are not in the MA plans network. She has come to you for advice. What should you tell her?",
+    answer:
+      "She qualifies for a SEP that allows her a one time decision to return to original medicare but not to select another MA plan",
+  },
+  {
+    question:
+      "Ms. Thomas has worked for many years and is turning 68 in June. She is eligible for Medicare Part A and did not enroll for Part B when first eligible because she has insurance through her employer - Coffee Brew, Inc. She also did not enroll in Part D because she had creditable coverage. She would like to retire in June and enroll in a Medicare Advantage plan. She has been informed that her group coverage will end on her retirement effective date. How would you advise Ms. Thomas?",
+    answer:
+      "Correct: To enroll in a MA or MA-PD plan, Ms. Thomas must be not only eligible for Part A but also enrolled in Part B. This will allow her to review her options and select coverage comparable to employer group coverage. Those disenrolling from employer-sponsored coverage to elect a MA or MA-PD plan have a SEP that ends 2 months after the employer-sponsored coverage ends in June.",
+  },
+  {
+    question:
+      "Mr. Wendt suffers from diabetes which has gotten progressively worse during the last year. He is currently enrolled in Original Medicare (Parts A and B) and a Part D prescription drug plan and did not enroll in a Medicare Advantage (MA) plan during the last annual open enrollment period (AEP) which has just closed. Mr. Wendt has heard certain MA plans might provide him with more specialized coverage for his diabetes and wants to know if he must wait until the next annual open enrollment period (AEP) before enrolling in such a plan. What should you tell him?",
+    answer:
+      "If there is a SNP plan in Mr. wendts area than he can enroll in it at any time.",
+  },
+  {
+    question:
+      "Mr. and Mrs. Nunez attended one of your sales presentations. They've asked you to come to their home to clear up a few questions. During the presentation, Mrs, Nunez feels tired and tells you that her husband can finish things up. She goes to bed. At the end of your discussion, Mr. Nunez says that he wants to enroll both himself and his wife. What should you do?",
+    answer:
+      "As long as she can do so. She must wake up and sign the application.",
+  },
+  {
+    question:
+      "Mr. Anderson is a very organized individual and has filled out and brought to you an enrollment form on October 10 for a new plan available on January 1 next year. He is currently enrolled in Original Medicare. What should you do?",
+    answer:
+      "Tell mr. anderson that you cannot accept the enrollment forms until AEP begins",
+  },
+  {
+    question:
+      "Which of the following individuals are likely to qualify for a special election period (SEP) for either a MA and/or Part D due to a change of residence?",
+    answer:
+      "Moves across country, moves to a place where there is a plan d available when there wasn't one before, makes a permenent move to another state providing him with new options.",
+  },
+  {
+    question:
+      'Mrs. Schmidt is moving and a friend told her she might qualify for a "special election period" to enroll in a new Medicare Advantage plan. She contacted you to ask what a special election period is. What could you tell her?',
+    answer:
+      "Correct. MA eligible and Part D eligible beneficiaries who experience certain qualifying events, such as a change in residence, are provided a special period to change their election, known as a special election period or SEP.",
+  },
 ];
 
 //part 3 question 8
