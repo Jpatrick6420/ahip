@@ -1,4 +1,4 @@
-export const questions = [
+const questions = [
   {
     question:
       "Mrs. Park is an elderly retiree. Mrs Park has a low fixed income. What would you tell mrs park that might be of assistance?",
@@ -110,6 +110,79 @@ export const questions = [
       "Mr. Lopez has heard that he can sign up for a product called 'Medicare Advantage' but is not sure about what type of plan designs are available through this program. What should you tell him about the types of health plans that are available through the Medicare Advantage program?",
     answer: "There are medicare plans such as HMO's, PPO's, PFFS, and MSAs",
   },
+  {
+    question:
+      "Mrs. Velasquez cares for her frail elderly mother, Maria, who lives in North Carolina. She is worried that without additional support, her mother will need to go into a nursing home. Mrs. Velasquez asks you if there is any Medicare plan that might allow her mother to remain in the community rather than going into a nursing home. How should you advise Mrs. Velasquez?",
+    answer:
+      "there are programs of all-inclusive care for the elderly (PACE) for frail elderly beneficiaries certified as needing a nursing home level of care but are able to live safely in the community at the time of environment.",
+  },
+  {
+    question:
+      "mr. Lombardi is interested in a medicare advantage (MA) PPO plan that you represent. it is one of three plans operated by the same organization in Mr. Lombardi's area. the MA PPO plan does not include drug coverage, but the other two plans do. Mr. Lombardi likes the PPO plan that does not include drug coverage and intends to obtain his drug coverage through a stand-alone Medicare prescription drug plan. What should you tell him about this situation?",
+    answer:
+      "He could enroll either in one of the ma plans that include prescription drug coverage or original medicare with a medigap plan and standalone part D drug coverage but he cannot enroll in the MA-only PPO plan and a standalone drug plan.",
+  },
+  {
+    question:
+      "Dr. Elizabeth Brennan does not contract with the ABC PFFS plan but accepts the plan's terms and conditions for payment. Mary Rodgers sees Dr. Brennan for treatment. How much may Dr. Brennan charge?",
+    answer:
+      "Dr. brennan can charge Mary Rogers no more thta the cost-sharing specified in the PFFS plans terms and conditions of payment which may include a 15% balance adjustment.",
+  },
+  {
+    question:
+      "Ms. Gibson recently lost her employer group health and drug coverage and now she wants to enroll in a PPO that does not include drug coverage. What should you tell her about obtaining drug coverage?",
+    answer:
+      "She can enroll in the PPO  but she will not be able to purchase a standalone Medicare Part D drug plan.",
+  },
+  {
+    question:
+      "Mr. Romero is 64, retiring soon, and considering enrollment in his employer-sponsored retiree group health plan that includes drug coverage with nominal copays. He heard about a neighbor's MA-PD plan that you represent and because he takes numerous prescription drugs, he is considering signing up for it. What should you tell him?",
+    answer:
+      "He should compare the benefits in his employer sponsored retiree plan to determine which one will provide sufficient coverage for his perscription needs.",
+  },
+  {
+    question:
+      "Mrs. Radford asks whether there are any special eligibility requirements for Medicare Advantage. What should you tell her?",
+    answer:
+      "Mrs. Radford must be entitled to Part A and enrolled in Part B to enroll into medicare advanatage.",
+  },
+  {
+    question:
+      "Mr. Kelly wants to know whether he is eligible to sign up for a private fee-for-service (PFFS) plan. What questions would you need to ask to determine his eligibility?",
+    answer:
+      "You would need to ask Mr. Kelly if he is entitled to part A, enrolled in part B and lives in the PFFS service area.",
+  },
+  {
+    question:
+      "Mr. Barker enjoys a comfortable retirement income. He recently had surgery and expected that he would have certain services and items covered by the plan with minimal out-of-pocket costs because his MA-PD coverage has been very good. However, when he received the bill, he was surprised to see large charges in excess of his maximum out-of-pocket limit that included some services and items he thought would be fully covered. He called you to ask what he could do? What could you tell him?",
+    answer:
+      "You can offer to review the plans appeal process to help him ask the plan to review the coverage decision",
+  },
+  {
+    question:
+      "Which of the following statement(s) is/are correct about a Medicare Savings Account (MSA) Plans?",
+    answer:
+      "MSA's may have either a partial network, full network or no network, MSA's plans cover Part A and B but do not cover plan D, non network providers must accept the same amount as Original Medicare would pay. ",
+  },
+  {
+    question:
+      "Mrs. Kelly, age 65, is entitled to Part A but has not yet enrolled in Part B. She is considering enrollment in a Medicare Advantage plan (Part C). What should you advise her to do before she can enroll in a Medicare Advantage plan?",
+    answer: "To join medicare Advantage she alos must enroll in plan B",
+  },
+  {
+    question:
+      "Mrs. Chi is age 75 and enjoys a comfortable but not extremely high-income level. She wishes to enroll in a MA MSA plan that she heard about from her neighbor. She also wants to have prescription drug coverage since her doctor recently prescribed several expensive medications. Currently, she is enrolled in Original Medicare and a standalone Part D plan. How would you advise Mrs. Chi?",
+    answer:
+      "Mrs Chi may enroll in a MA MSA plan and remain in the current stand alone drug plan",
+  },
+  {
+    question:
+      "Mr. Wells is trying to understand the difference between Original Medicare and Medicare Advantage. What would be the correct description?",
+    answer:
+      "Medicare advantage is an orignal medicare alternate offered by an independent.",
+  },
 ];
 
-//part 2 question 4
+//part 2 question 19
+
+export default questions;
