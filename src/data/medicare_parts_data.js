@@ -193,17 +193,18 @@ const questions = [
     answer:
       "If the drug coverage he has is not expected to pay on average at least as much as medicares plan d coverage then he will need to enroll in d to avoid penalties",
   },
-  {
-    question:
-      "Mr. Hutchinson has drug coverage through his former employers retiree plan. He is concerned about the Part D premium penalty if he does not enroll in a Medicare prescription drug plan, but does not want to purchase extra coverage that he will not need. What should you tell him?",
-    answer:
-      "If a part d benefit is offered through her plan she may choose to enroll in that plan or a standaone PDP",
-  },
+
   {
     question:
       "Mr. Shapiro gets by on a very small amount of fixed income. He has heard there may be extra help paying for Part D prescription drugs for Medicare beneficiaries with limited income. He wants to know whether he might qualify. What should you tell him?",
     answer:
       "The extra help is available to beneficiaries whose income and assets do not exceed annual limits specified by the government",
+  },
+  {
+    question:
+      "Agent Rodriguez enrolls Mrs. Martinez in a medical saving account(MSA) medicare health plan. The MSA plan does not offer prescription drug coverage, so Agent Rodriguez enrolls her in a PDP. What CMS compensation rules apply to this situation?",
+    answer:
+      "Regular CMS and renewal compensation rules apply to the PDP while compensation is limited to $100 for the MSA health plan enrollment to recompensate CMS for the contributions to the enrollee's MSA account.",
   },
   {
     question:
@@ -219,7 +220,7 @@ const questions = [
   },
   {
     question:
-      "Mr. and Mrs. Vaughn both take a specialized multivitamin prescription each day. Mr. Vaughn takes a prescription to help to regrow his hair. They are anxious to have their Medicare prescription drug plan cover these drug needs. What should you tell them??",
+      "Mr. and Mrs. Vaughn both take a specialized multivitamin prescription each day. Mr. Vaughn takes a prescription to help to regrow his hair. They are anxious to have their Medicare prescription drug plan cover these drug needs. What should you tell them?",
     answer:
       "Medicare perscription drug plans are not permittted to cover prescription meds the vaugns are interested in nor cosmetic nor vitimins but they might look at an adantage plan that offers them as a supplemental benefit.",
   },
@@ -382,7 +383,7 @@ const questions = [
   },
   {
     question:
-      "You market many different types of insurance and ordinarily you spend time each evening calling potential clients. To comply with requirements for marketing Medicare Advantage and Part D plans, what must you do about contacting potential clients to market those plansi?",
+      "You market many different types of insurance and ordinarily you spend time each evening calling potential clients. To comply with requirements for marketing Medicare Advantage and Part D plans, what must you do about contacting potential clients to market those plans?",
     answer:
       "You will have to avoid calling any potential client unless he or she initiates you a contact with you.",
   },
